@@ -1,3 +1,15 @@
+# v0.0.5 (Sat Jan 30 2021)
+
+#### 🐛 Bug Fix
+
+- Change build trigger to on release in general [#12](https://github.com/chez14/daily-watori/pull/12) ([@chez14](https://github.com/chez14))
+
+#### Authors: 1
+
+- Chris Qiang ([@chez14](https://github.com/chez14))
+
+---
+
 # v0.0.4 (Sat Jan 30 2021)
 
 #### 🐛 Bug Fix
