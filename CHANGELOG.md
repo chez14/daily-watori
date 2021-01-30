@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Jan 30 2021)
+
+#### 🐛 Bug Fix
+
+- Trigger docker build only on branch push and tag push [#9](https://github.com/chez14/daily-watori/pull/9) ([@chez14](https://github.com/chez14))
+
+#### Authors: 1
+
+- Chris Qiang ([@chez14](https://github.com/chez14))
+
+---
+
 # v0.0.1 (Sat Jan 30 2021)
 
 :tada: This release contains work from new contributors! :tada:
