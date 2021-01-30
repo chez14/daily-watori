@@ -1,3 +1,15 @@
+# v0.0.3 (Sat Jan 30 2021)
+
+#### 🐛 Bug Fix
+
+- Limit docker build to response on only tags [#10](https://github.com/chez14/daily-watori/pull/10) ([@chez14](https://github.com/chez14))
+
+#### Authors: 1
+
+- Chris Qiang ([@chez14](https://github.com/chez14))
+
+---
+
 # v0.0.2 (Sat Jan 30 2021)
 
 #### 🐛 Bug Fix
